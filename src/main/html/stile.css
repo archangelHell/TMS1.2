@@ -1,0 +1,11 @@
+.container *{
+    border-radius: 4;
+    background:#2F4F4F ;
+    color: #F0FFF0;
+    border-color: #3b3b3b;
+}
+body {
+    margin-top: 40px;
+     background: linear-gradient(blue, pink);
+    color: #2F4F4F;
+}
